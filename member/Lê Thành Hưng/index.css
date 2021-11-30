@@ -1,0 +1,29 @@
+h2{
+  font-family: 'Lora';
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+  margin: 0px 0px -20px 0px;
+  padding: 10px 20px;
+}
+
+h3{
+  text-align: center;
+  font-style: normal;
+  font-family: 'Cormorant Garamond';
+  font-size: 25px;
+  margin: 0px 0px -20px 0px;
+  padding: 10px 20px;
+}
+
+html{
+  background: #bfe4c4;
+  padding: 10px 20px;
+}
+
+img{
+  display: block;
+  margin: 0 auto 30px;
+  border: 2px solid #000000;
+  border-radius: 60px 60px 60px 60px;
+}
