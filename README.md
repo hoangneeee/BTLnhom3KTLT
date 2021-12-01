@@ -35,7 +35,7 @@
   16. Nguyễn Đình Minh - B19DCVT252
   17. Phan Ngọc Khải - B19DCVT196
   18. Tạ Nhật Minh-B19DCVT257
-  19.   DO HOANG SON - B19DCVT308
+  19. Đỗ Hoàng Sơn - B19DCVT308
 
 # Link trang chủ :
 **https://hoangneeee.github.io/BTLnhom3KTLT/index.html**
